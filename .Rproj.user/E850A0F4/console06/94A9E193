@@ -1,0 +1,10 @@
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ [K]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git remote add origin git@github.com:HeyangGong/reinforce.git
+fatal: Not a git repository (or any parent up to mount point /home/ghy/E)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git push -u origin master[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit init
+Initialized empty Git repository in /home/ghy/E/7-teaching-age/blog/reinforcev2/.git/
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git add[K[K[K[K[K[K[Kgit remote add origin git@github.com:HeyangGong/reinforce.git
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:HeyangGong/reinforce.git'
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git add .
