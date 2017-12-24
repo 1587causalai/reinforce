@@ -12,16 +12,16 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 
 
-insert a picture
+<!-- insert a picture -->
 
 <!-- ![](https://github.com/HeyangGong/reinforce/content/post/images/files.png) -->
 
 <!-- ![](https://github.com/HeyangGong/reinforce/blob/master/content/post/images/files.png) -->
 
-![testssssss](images/files.png)
+<!-- ![testssssss](images/files.png) -->
 
 
-![whaht](![default theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png))
+<!-- ![whaht](![default theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png)) -->
 
 # R Markdown
 
