@@ -8,3 +8,98 @@ Initialized empty Git repository in /home/ghy/E/7-teaching-age/blog/reinforcev2/
 error: src refspec master does not match any.
 error: failed to push some refs to 'git@github.com:HeyangGong/reinforce.git'
 ]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git add .
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ 
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git commit -m 'get yourh[K hands dirty'
+[master (root-commit) c6777ad] get your hands dirty
+ 80 files changed, 2859 insertions(+)
+ create mode 100644 .Rproj.user/E850A0F4/console06/94A9E193
+ create mode 100644 .Rproj.user/E850A0F4/console06/94A9E193.env
+ create mode 100644 .Rproj.user/E850A0F4/console06/INDEX001
+ create mode 100644 .Rproj.user/E850A0F4/sources/prop/21C32302
+ create mode 100644 .Rproj.user/E850A0F4/sources/prop/INDEX
+ create mode 100644 .Rproj.user/E850A0F4/sources/s-C540D4B4/1D7BEF31
+ create mode 100644 .Rproj.user/E850A0F4/sources/s-C540D4B4/1D7BEF31-contents
+ create mode 100644 .Rproj.user/E850A0F4/sources/s-C540D4B4/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/about.md
+ create mode 100644 content/post/2015-01-01-lorem-ipsum.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/2016-12-30-hello-markdown.md
+ create mode 100644 index.Rmd
+ create mode 100644 public/.gitkeep
+ create mode 100644 public/2015/01/01/lorem-ipsum/index.html
+ create mode 100644 public/2015/07/23/hello-r-markdown/index.html
+ create mode 100644 public/2016/12/30/a-plain-markdown-post/index.html
+ create mode 100644 public/about/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/css/fonts.css
+ create mode 100644 public/css/main.css
+ create mode 100644 public/fonts/lato-v11-latin-regular.woff
+ create mode 100644 public/fonts/lato-v11-latin-regular.woff2
+ create mode 100644 public/fonts/merriweather-v13-latin-regular.woff
+ create mode 100644 public/fonts/merriweather-v13-latin-regular.woff2
+ create mode 100644 public/images/hugo-logo.png
+ create mode 100644 public/images/logo.png
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/math-code.js
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 reinforcev2.Rproj
+ create mode 100644 static/.gitkeep
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 themes/hugo-lithium-theme/.gitignore
+ create mode 100644 themes/hugo-lithium-theme/LICENSE.md
+ create mode 100644 themes/hugo-lithium-theme/README.md
+ create mode 100644 themes/hugo-lithium-theme/archetypes/default.md
+ create mode 100644 themes/hugo-lithium-theme/exampleSite/config.toml
+ create mode 100644 themes/hugo-lithium-theme/exampleSite/content/about.md
+ create mode 100644 themes/hugo-lithium-theme/exampleSite/content/post/2015-01-01-lorem-ipsum.md
+ create mode 100644 themes/hugo-lithium-theme/exampleSite/content/post/2016-12-30-hello-markdown.md
+ create mode 100644 themes/hugo-lithium-theme/exampleSite/static/.gitkeep
+ create mode 100644 themes/hugo-lithium-theme/hugo-lithium-theme.Rproj
+ create mode 100644 themes/hugo-lithium-theme/layouts/_default/list.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/_default/single.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/disqus.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/footer.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/footer_highlightjs.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/footer_mathjax.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/head.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/head_custom.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/head_highlightjs.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/header.html
+ create mode 100644 themes/hugo-lithium-theme/layouts/partials/nav.html
+ create mode 100644 themes/hugo-lithium-theme/static/css/fonts.css
+ create mode 100644 themes/hugo-lithium-theme/static/css/main.css
+ create mode 100644 themes/hugo-lithium-theme/static/fonts/lato-v11-latin-regular.woff
+ create mode 100644 themes/hugo-lithium-theme/static/fonts/lato-v11-latin-regular.woff2
+ create mode 100644 themes/hugo-lithium-theme/static/fonts/merriweather-v13-latin-regular.woff
+ create mode 100644 themes/hugo-lithium-theme/static/fonts/merriweather-v13-latin-regular.woff2
+ create mode 100644 themes/hugo-lithium-theme/static/images/hugo-logo.png
+ create mode 100644 themes/hugo-lithium-theme/static/images/logo.png
+ create mode 100644 themes/hugo-lithium-theme/static/js/math-code.js
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git commit -m 'get your hands dirty'add .[Kpush -u origin master
+Counting objects: 111, done.
+Delta compression using up to 4 threads.
+Compressing objects:   1% (1/88)   Compressing objects:   2% (2/88)   Compressing objects:   3% (3/88)   Compressing objects:   4% (4/88)   Compressing objects:   5% (5/88)   Compressing objects:   6% (6/88)   Compressing objects:   7% (7/88)   Compressing objects:   9% (8/88)   Compressing objects:  10% (9/88)   Compressing objects:  11% (10/88)   Compressing objects:  12% (11/88)   Compressing objects:  13% (12/88)   Compressing objects:  14% (13/88)   Compressing objects:  15% (14/88)   Compressing objects:  17% (15/88)   Compressing objects:  18% (16/88)   Compressing objects:  19% (17/88)   Compressing objects:  20% (18/88)   Compressing objects:  21% (19/88)   Compressing objects:  22% (20/88)   Compressing objects:  23% (21/88)   Compressing objects:  25% (22/88)   Compressing objects:  26% (23/88)   Compressing objects:  27% (24/88)   Compressing objects:  28% (25/88)   Compressing objects:  29% (26/88)   Compressing objects:  30% (27/88)   Compressing objects:  31% (28/88)   Compressing objects:  32% (29/88)   Compressing objects:  34% (30/88)   Compressing objects:  35% (31/88)   Compressing objects:  36% (32/88)   Compressing objects:  37% (33/88)   Compressing objects:  38% (34/88)   Compressing objects:  39% (35/88)   Compressing objects:  40% (36/88)   Compressing objects:  42% (37/88)   Compressing objects:  43% (38/88)   Compressing objects:  44% (39/88)   Compressing objects:  45% (40/88)   Compressing objects:  46% (41/88)   Compressing objects:  47% (42/88)   Compressing objects:  48% (43/88)   Compressing objects:  50% (44/88)   Compressing objects:  51% (45/88)   Compressing objects:  52% (46/88)   Compressing objects:  53% (47/88)   Compressing objects:  54% (48/88)   Compressing objects:  55% (49/88)   Compressing objects:  56% (50/88)   Compressing objects:  57% (51/88)   Compressing objects:  59% (52/88)   Compressing objects:  60% (53/88)   Compressing objects:  61% (54/88)   Compressing objects:  62% (55/88)   Compressing objects:  63% (56/88)   Compressing objects:  64% (57/88)   Compressing objects:  65% (58/88)   Compressing objects:  67% (59/88)   Compressing objects:  68% (60/88)   Compressing objects:  69% (61/88)   Compressing objects:  70% (62/88)   Compressing objects:  71% (63/88)   Compressing objects:  72% (64/88)   Compressing objects:  73% (65/88)   Compressing objects:  75% (66/88)   Compressing objects:  76% (67/88)   Compressing objects:  77% (68/88)   Compressing objects:  78% (69/88)   Compressing objects:  79% (70/88)   Compressing objects:  80% (71/88)   Compressing objects:  81% (72/88)   Compressing objects:  82% (73/88)   Compressing objects:  84% (74/88)   Compressing objects:  85% (75/88)   Compressing objects:  86% (76/88)   Compressing objects:  87% (77/88)   Compressing objects:  88% (78/88)   Compressing objects:  89% (79/88)   Compressing objects:  90% (80/88)   Compressing objects:  92% (81/88)   Compressing objects:  93% (82/88)   Compressing objects:  94% (83/88)   Compressing objects:  95% (84/88)   Compressing objects:  96% (85/88)   Compressing objects:  97% (86/88)   Compressing objects:  98% (87/88)   Compressing objects: 100% (88/88)   Compressing objects: 100% (88/88), done.
+Writing objects:   0% (1/111)   Writing objects:   1% (2/111)   Writing objects:   2% (3/111)   Writing objects:   3% (4/111)   Writing objects:   4% (5/111)   Writing objects:   5% (6/111)   Writing objects:   6% (7/111)   Writing objects:   7% (8/111)   Writing objects:   8% (9/111)   Writing objects:   9% (10/111)   Writing objects:  10% (12/111)   Writing objects:  11% (13/111)   Writing objects:  12% (14/111)   Writing objects:  13% (15/111)   Writing objects:  14% (16/111)   Writing objects:  15% (17/111)   Writing objects:  16% (18/111)   Writing objects:  17% (19/111)   Writing objects:  18% (20/111)   Writing objects:  19% (22/111)   Writing objects:  20% (23/111)   Writing objects:  21% (24/111)   Writing objects:  22% (25/111)   Writing objects:  23% (26/111)   Writing objects:  24% (27/111)   Writing objects:  25% (28/111)   Writing objects:  26% (29/111)   Writing objects:  27% (30/111)   Writing objects:  28% (32/111)   Writing objects:  31% (35/111)   Writing objects:  32% (36/111)   Writing objects:  33% (37/111)   Writing objects:  34% (38/111)   Writing objects:  35% (39/111)   Writing objects:  36% (40/111)   Writing objects:  37% (42/111)   Writing objects:  38% (43/111)   Writing objects:  39% (44/111)   Writing objects:  40% (45/111)   Writing objects:  42% (47/111)   Writing objects:  43% (48/111)   Writing objects:  45% (50/111)   Writing objects:  46% (52/111)   Writing objects:  47% (53/111)   Writing objects:  48% (54/111)   Writing objects:  49% (55/111)   Writing objects:  50% (56/111)   Writing objects:  51% (57/111)   Writing objects:  52% (58/111)   Writing objects:  53% (59/111)   Writing objects:  54% (60/111)   Writing objects:  55% (62/111)   Writing objects:  56% (63/111)   Writing objects:  57% (64/111)   Writing objects:  58% (65/111)   Writing objects:  59% (66/111)   Writing objects:  60% (67/111)   Writing objects:  61% (68/111)   Writing objects:  62% (69/111)   Writing objects:  63% (70/111)   Writing objects:  64% (72/111)   Writing objects:  65% (73/111)   Writing objects:  66% (74/111)   Writing objects:  67% (75/111)   Writing objects:  68% (76/111)   Writing objects:  69% (77/111)   Writing objects:  70% (78/111)   Writing objects:  71% (79/111)   Writing objects:  72% (80/111)   Writing objects:  73% (82/111)   Writing objects:  75% (84/111)   Writing objects:  76% (85/111)   Writing objects:  77% (86/111)   Writing objects:  78% (87/111)   Writing objects:  79% (88/111)   Writing objects:  80% (89/111)   Writing objects:  81% (90/111)   Writing objects:  82% (92/111)   Writing objects:  83% (93/111)   Writing objects:  84% (94/111)   Writing objects:  85% (95/111)   Writing objects:  86% (96/111)   Writing objects:  87% (97/111)   Writing objects:  88% (98/111)   Writing objects:  89% (99/111)   Writing objects:  90% (100/111)   Writing objects:  91% (102/111)   Writing objects:  92% (103/111)   Writing objects:  93% (104/111)   Writing objects:  94% (105/111)   Writing objects:  95% (106/111)   Writing objects:  96% (107/111)   Writing objects:  97% (108/111)   Writing objects:  98% (109/111)   Writing objects:  99% (110/111)   Writing objects: 100% (111/111)   Writing objects: 100% (111/111), 145.47 KiB | 0 bytes/s, done.
+Total 111 (delta 16), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/16)   [Kremote: Resolving deltas:  50% (8/16)   [Kremote: Resolving deltas:  93% (15/16)   [Kremote: Resolving deltas: 100% (16/16)   [Kremote: Resolving deltas: 100% (16/16), done.[K
+To git@github.com:HeyangGong/reinforce.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;/home/ghy/E/7-teaching-age/blog/reinforcev2]0;ghy@jared: ~/E/7-teaching-age/blog/reinforcev2[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/reinforcev2[00m$ git push -u origin mastercommit -m 'get your hands dirty'add .[K
