@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1170244767",
+    "hash" : "4009293548",
     "id" : "9EB4D81F",
-    "lastKnownWriteTime" : 1514047863,
-    "last_content_update" : 1514047863,
+    "lastKnownWriteTime" : 1514074252,
+    "last_content_update" : 1514074252572,
     "path" : "~/E/7-teaching-age/blog/reinforcev2/content/post/blogdown.Rmd",
     "project_path" : "content/post/blogdown.Rmd",
     "properties" : {
+        "cursorPosition" : "116,68",
+        "scrollLine" : "106"
     },
     "relative_order" : 2,
     "source_on_save" : false,

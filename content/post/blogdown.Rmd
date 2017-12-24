@@ -107,14 +107,14 @@ https://bookdown.org/yihui/blogdown/workflow.html
 
 - http://www.yasasa.cn/2017/03/11/how-to-make-hugo-blog-on-github/
 
-![](./post/images/intro.png)
+![]("https://github.com/HeyangGong/reinforce/tree/master/content/post/images/intro.png")
 
 
 
 
 ![](./post/images/personal_blog.png)
 
-![](./post/images/sync.png)
+![](https://github.com/HeyangGong/reinforce/tree/master/content/post/images/sync.png)
 
 ![](images/github_deploy.png)
 
